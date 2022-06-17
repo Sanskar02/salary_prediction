@@ -1,6 +1,6 @@
 # salary_prediction
 
-## Salary Estimation Project Deployment on Hadoop Environment | End-to-End Machine Learning Project | Flask Web App. Created a Machine Learning model to predict the salary of employees using linear regression.
+### Salary Estimation Project Deployment on Hadoop Environment | End-to-End Machine Learning Project | Flask Web App. Created a Machine Learning model to predict the salary of employees using linear regression.
 
 ## Link
 https://salary--prediction--apii.herokuapp.com

@@ -3,7 +3,7 @@
 ### Salary Estimation Project Deployment on Hadoop Environment | End-to-End Machine Learning Project | Flask Web App. Created a Machine Learning model to predict the salary of employees using linear regression.
 
 Steps :
-1. Train the ML model
+1. Train the model
 2. Create Web App using Flask
 3. Commit the code in Github
 4. Create an Account in Heroku
